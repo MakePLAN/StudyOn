@@ -16,6 +16,6 @@ Sampurna Basu
 
 Da Young Joanne Kwon
 
-Ben Lee
+Sang Woon (Ben) Lee
 
 Web application code for StudyOn in TrojanHacks
