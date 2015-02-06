@@ -4,7 +4,7 @@ Panda_Hackerz =============.....!!!!!
 
 Project For USC TrojanHack All contributors are participating hackathon for the first time.
 
-StudyOn is An instant study-group-creating WebApp. You can visited it on StudyOn.me
+StudyOn is An instant study-group-creating WebApp. 
 
 Team Member
 
